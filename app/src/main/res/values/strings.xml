@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Timer</string>
+    <string name="no_input_error">Please enter a task.</string>
+    <string name="isPausedError">Timer is not running.</string>
+    <string name="isRunningError">Timer is already running.</string>
+</resources>
